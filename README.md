@@ -24,8 +24,8 @@ To investigate urban heat patterns using Land Surface Temperature (LST), vegetat
 **Technologies:** Google Earth Engine, JavaScript, Remote Sensing and GIS.
 
 **Files:**
-- [Project Report (PDF)](P2_Urban_Heat_Island/Urban Heat Island Report.pdf)
-- [GEE Source Code (JavaScript)](P2_Urban_Heat_Island/Urban Heat Island Analysis.js)
+- [Project Report (PDF)](P2_Urban_Heat_Island/Urban%20Heat%20Island%20Report.pdf)
+- [GEE Source Code (JavaScript)](P2_Urban_Heat_Island/Urban%20Heat%20Island%20Analysis.js)
 
 ### 2. Air Quality and Aerosol Pattern Mapping
 
@@ -46,8 +46,8 @@ To analyse aerosol optical depth (AOD) patterns using satellite-derived observat
 **Technologies:** Google Earth Engine, JavaScript, Remote Sensing and GIS.
 
 **Files:**
-- [Project Report (PDF)](P5_Air_Quality/Air Quality AOD Report.pdf)
-- [GEE Source Code (JavaScript)](P5_Air_Quality/Air Quality AOD Analysis.js)
+- [Project Report (PDF)](P5_Air_Quality/Air%20Quality%20AOD%20Report.pdf)
+- [GEE Source Code (JavaScript)](P5_Air_Quality/Air%20Quality%20AOD%20Analysis.js)
 
 ## Tools and Technologies
 
